@@ -74,27 +74,16 @@ PROCEDURE - (LPF):
 
 
 
-## TABULATION
+l![WhatsApp Image 2026-03-31 at 11 17 37 AM](https://github.com/user-attachments/assets/cf42adbe-d1d7-463b-8762-a3875f00d879)
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
 		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-31 at 11 18 37 AM](https://github.com/user-attachments/assets/ce3399c8-8177-4a49-aabb-e22ed71421f1)
+
+<img width="1240" height="657" alt="image" src="https://github.com/user-attachments/assets/d0073f62-f2e3-4c97-a317-c94dac4ef35d" />
 
 ---
 
@@ -160,26 +149,16 @@ PROCEDURE - ( HPF):
 ## TABULATION
 
 		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+![WhatsApp Image 2026-03-31 at 11 19 49 AM](https://github.com/user-attachments/assets/db18e7f9-73a8-4463-b16e-279fe0545166)
+
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="1052" alt="image" src="https://github.com/user-attachments/assets/7efcc6fd-95a0-4714-ae96-3a7b381dbd2e" />
 
----
+<img width="1244" height="657" alt="image" src="https://github.com/user-attachments/assets/b06ae837-1082-452d-9896-36b1743eab94" />
+
 
  ## 6C Band Pass Filter
 
@@ -245,24 +224,13 @@ PROCEDURE:BAND PASS FILTER
 ## TABULATION
 
 		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+![WhatsApp Image 2026-03-31 at 11 22 26 AM](https://github.com/user-attachments/assets/38cff0c2-3a34-40f6-87fe-b138f7856fe3)
 
----
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-31 at 11 23 03 AM](https://github.com/user-attachments/assets/25f721cb-9386-4363-972e-cecfa9cec3e4)
+
+<img width="1237" height="632" alt="image" src="https://github.com/user-attachments/assets/e669e4b7-1fa2-4256-a8eb-6ded6e2cdf7c" />
 
 ---
 ##RESULT:
